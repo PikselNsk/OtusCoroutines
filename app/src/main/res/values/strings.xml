@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OtusCoroutines</string>
+    <string name="name_char">Имя персонажа</string>
+    <string name="source_char">Вид</string>
+    <string name="date_create">Создан</string>
+    <string name="gender">Пол</string>
+    <string name="status">Статус</string>
+    <string name="type">Тип</string>
+</resources>
